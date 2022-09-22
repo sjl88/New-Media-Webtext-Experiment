@@ -27,7 +27,7 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     color: gray;
-    font-size: 250%;
+    font-size: 2.5em;
     font-weight: bold;
     font-style: Georgia;
 }
@@ -35,7 +35,7 @@ body, html {
 .hero-text h1 {
     /* This section adds the text stylings for your hero block */
     display: block;
-    font-size: 2em;
+    font-size: 1.8em;
     margin-block-start: 2.33em;
     margin-block-end: 2.33em;
     margin-inline-start: 0px;
@@ -47,7 +47,7 @@ body, html {
 .hero-text h2 {
     /* This section adds the text stylings for your hero block */
     display: block;
-    font-size: 0.8em;
+    font-size: 1.2em;
     margin-block-start: 2.33em;
     margin-block-end: 2.33em;
     margin-inline-start: 0px;
@@ -61,6 +61,7 @@ body, html {
     padding-bottom: 100px;
     padding-left: 100px;
     padding-right: 100px;
+    font-size: 1.0em
   }
 
 .blockquote {
@@ -70,6 +71,7 @@ body, html {
     padding-left: 20px;
     padding-right: 20px;
     margin: 10%;
+    font-size: 1.0em
 }
 
 /* Change your button colors and other attributes here. */
@@ -219,7 +221,6 @@ The following CSS is responsible for your photo grid .row, .column, .column img 
     vertical-align: middle;
     width: 100%;
 }
-
 
 /* Responsive layout - makes grid a one column-layout instead of two or three columns */
 @media screen and (max-width: 800px) {
