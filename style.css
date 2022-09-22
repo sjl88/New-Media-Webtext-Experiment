@@ -236,7 +236,7 @@ this CSS element centers text elements*/
 @media screen and (min-width: 800px) {
     .textblock, .video {
         margin: auto;
-        width: 50%;
+        width: 80%;
         padding: 100px;
         font-size: 125%;
     }
