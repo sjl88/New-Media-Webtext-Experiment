@@ -39,7 +39,6 @@ Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/
 
 
 
-
 ## Text Editor Optimization 
 
 Setting up Atom for Windows and CodePad for Chromebooks 
